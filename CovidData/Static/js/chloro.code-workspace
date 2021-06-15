@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\.."
+		},
+		{
+			"path": "..\\..\\..\\..\\CVP"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "DataProjects"
+	}
+}
