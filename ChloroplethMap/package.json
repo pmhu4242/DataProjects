@@ -1,0 +1,14 @@
+{
+  "name": "551bc825c72d146f",
+  "main": "551bc825c72d146f@214.js",
+  "version": "214.0.0",
+  "homepage": "https://observablehq.com/d/551bc825c72d146f",
+  "author": {
+    "name": "Patrick Hudson",
+    "url": "https://observablehq.com/@pmhu4242"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}
